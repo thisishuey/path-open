@@ -2,13 +2,13 @@
   "name": "path-open",
   "main": "./lib/path-open",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Opens paths under the cursor using `ctrl-alt-p`.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "path:open"
   },
-  "repository": "https://github.com/atom/path-open",
+  "repository": "https://github.com/thisishuey/path-open",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
