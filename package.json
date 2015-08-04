@@ -1,0 +1,22 @@
+{
+  "name": "path-open",
+  "main": "./lib/path-open",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "path:open"
+  },
+  "repository": "https://github.com/atom/path-open",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "first-mate": "^3.0.0"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.9.7"
+  }
+}
