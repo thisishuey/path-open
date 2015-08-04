@@ -2,7 +2,7 @@
   "name": "path-open",
   "main": "./lib/path-open",
   "version": "0.0.0",
-  "description": "Opens paths under the cursor using `ctrl-alt-p`.",
+  "description": "Opens relative paths under the cursor using `Path: Open` from the Command Palette, `Open Path` from the context menu, or `ctrl-alt-p`.",
   "keywords": [
   ],
   "activationCommands": {
